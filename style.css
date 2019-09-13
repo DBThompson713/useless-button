@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+body {
+  background-color: #fcd04b;
+  font-family: Lato;
+  font-weight: light;
+  color: #fff;
+}
+
+h1 {
+  font-weight: 100px;
+  letter-spacing: 3px;
+  text-align: center;
+}
+
+h1:active {
+  transform: scaleX(1.5);
+  transform-origin: right;
+}
+
+.btn {
+  margin-top: 40px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 25px 80px;
+  margin: 85px auto;
+  border-radius: 10px;
+  background-color: #fcad26;
+  font-size: 16px;
+  box-shadow: 0 6px #efa320;
+}
+
+.btn:hover {
+  box-shadow: 0 4px #efa320;
+  top: 2px;
+}
+
+.btn:active {
+  box-shadow: none;
+  top: 6px;
+  transform: rotate(180deg);
+  transition-duration: 0.5s;
+  transition-property: transform;
+  transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 15.875);
+}
