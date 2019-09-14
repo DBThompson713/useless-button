@@ -1,4 +1,4 @@
-# Useless Button
+# Useless Spin Button
 
 <p>CSS practice</p>
 
