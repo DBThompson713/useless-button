@@ -9,6 +9,6 @@
 
   <h3>Screencap</h3>
 
-  <img src="img/sc-1.jpg" alt="Screencap of useless button" />
+  <img src="img/sc-1.JPG" alt="Screencap of useless button" />
 
 2019 © Dale Thompson
