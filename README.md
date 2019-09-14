@@ -2,7 +2,7 @@
 
 <p>CSS practice</p>
 
-<p>This button is useless.</p>
+<p>This button spins.</p>
 
 <p>A live version can be found at:</p>
   <a href="https://codepen.io/dbthompson713/live/bLMVGL">https://codepen.io/dbthompson713/live/bLMVGL</a>
